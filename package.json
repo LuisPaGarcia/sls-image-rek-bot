@@ -1,0 +1,17 @@
+{
+	"name": "sls-tweet-img-rekognition",
+	"version": "0.0.1",
+	"description": "Simple tweet bot that recognizes images using rekognition and serverless privided by AWS",
+	"main": "handler.js",
+	"dependencies": {
+		"aws-sdk": "^2.355.0",
+		"mongodb": "^3.1.9",
+		"node-fetch": "^2.3.0",
+		"twit": "^2.2.11"
+	},
+	"scripts": {
+		"deploy": "sls deploy"
+	},
+	"author": "LuisPa García (github.com/luispagarcia)",
+	"license": "MIT"
+}

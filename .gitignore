@@ -1,0 +1,6 @@
+/node_modules
+handler1.js
+yarn.lock
+
+serverless.yml
+.serverless
