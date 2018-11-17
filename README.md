@@ -1,6 +1,6 @@
 # Serverless Image recognition Bot 🤖
 
-## Using mongodb provided by MLab and Serverless framework with Node.js
+## Using mongodb provided by MLab, AWS Rekognition and Serverless framework with Node.js
 
 1. Create an instance of mongodb. (MLab gives you a free instance here: https://mlab.com)
 2. Get your twitter credentials. (Here: https://developer.twitter.com/)
